@@ -2,6 +2,8 @@
 
 Web Visualization Dashboard of weather in 500+ cities at different latitudes relative to the equator line. The visualizations show temperature, humidity, cloudiness, and wind speed using HTML5, CSS3, and Bootstrap4.
 
+In the following Visualization you can see both the Large tile and the comperison tiles next to it. The .html files are added in the file and also this repository consists of a resource folder that is only for the reference perpouse. 
+
 ## Summary
 ![](Results/Summary.PNG)
 
@@ -19,3 +21,5 @@ Web Visualization Dashboard of weather in 500+ cities at different latitudes rel
 
 ## Wind Speed
 ![](Results/Wind_speed.PNG)
+
+this was my favorite part --> <div class="footer">Copyright &copy; Ravindra Patel 2020</div>
